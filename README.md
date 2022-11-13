@@ -9,6 +9,12 @@ Mapas:
 - mediterraneo
 - blue_lagoon
 - anatolia
+- alfheim
+- tundra
+- pantano
+- buraco_dagua
+- lago_fantasma
+- savana
 
 Deuses:
 
