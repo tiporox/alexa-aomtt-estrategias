@@ -15,6 +15,7 @@ Mapas:
 - buraco_dagua
 - lago_fantasma
 - savana
+- midgard
 
 Deuses:
 
