@@ -1,17 +1,16 @@
 {
     "ra_mediterraneo" : {
         "rush mar" : {
-            "texto": "1 aldeão fazer cais e depois enviar ele para a madeira. 2 aldeões para madeira. Próximos 4 aldeões para a comida. Mais 2 na madeira. Deixar rodando aldeões para a comida até ter o suficiente para evoluir. Fazer templo depois de 6 barcos de pesca. Quando colocar para evoluir você deve deixar 10 na madeira e 5 no ouro. Fazer o segundo cais, upar a machadinha, fazer casa e deixar rodando aldeões para a madeira. Essa tática você deve upar aproximadamente em 4:30 com 15 aldeões.",
+            "texto": "1 aldeão fazer cais e depois enviar ele para a madeira. 2 aldeões para madeira. Próximos 4 aldeões para a comida. Mais 2 na madeira. Deixar rodando aldeões para a comida até ter o suficiente para evoluir. Fazer templo depois de 6 barcos de pesca. Quando colocar para evoluir escolhe o deus Athena e você deve deixar 10 na madeira e 5 no ouro. Fazer o segundo cais, upar a machadinha, fazer casa e deixar rodando aldeões para a madeira. Essa tática você deve upar aproximadamente em 4:30 com 15 aldeões.",
             "autor": "TSM_player",
             "avaliacao": "10"
-        },
-        "dois TCs" : {
-            "texto": "teste 2 TCs",
-             "autor": "TSM_tiporox"
-        },
-        "F.H." : {
-            "texto": "teste F.H sss",
-            "autor": "TSM_tiporox"
         }
-    }
+    },
+	"oranos_oasis" : {
+		"centauro" : {
+			"texto": "teste",
+			"autor": "TSM_player",
+			"avaliacao": "10"
+		}
+	}
 }
