@@ -1,8 +1,100 @@
 {
+    "zeus_mediterraneo" : {
+        "6 vills" : {
+            "texto": "construir doca, rodar 3 barcos de pesca e colocar aldeão na madeira;1 comida (porcos);1 comida (porcos);construir solar com os dois aldeões da comida e voltar para a coleta de porcos;1 madeira, rodar 2 barcos de pesca;1 comida (porcos);Construir templo com o aldeão da madeira;1 comida.up de era (prometheus);5 barcos na comida;4 madeira;2 ouro.",
+            "autor": "TSM_Kravz",
+            "avaliacao": "10"
+        },
+        "7 vills" : {
+            "texto": "construir doca, rodar 3 barcos de pesca e colocar aldeão na madeira;1 comida (porcos);1 comida (porcos);construir solar com os dois aldeões da comida e voltar para a coleta de porcos;1 madeira, rodar 3 ou 4 barcos de pesca;2 comida (porcos);Construir templo com o aldeão da madeira;1 comida. up de era (prometheus);6 ou 7 barcos na comida;5 madeira;2 ouro.",
+            "autor": "TSM_Kravz",
+            "avaliacao": "10"
+        }
+    },
+    "hades_mediterraneo" : {
+        "6 vills" : {
+            "texto": "construir doca, rodar 3 barcos de pesca e colocar aldeão na madeira;1 comida (porcos);1 comida (porcos);construir solar com os dois aldeões da comida e voltar para a coleta de porcos;1 madeira, rodar 2 barcos de pesca;1 comida (porcos);Construir templo com o aldeão da madeira;1 comida.up de era (prometheus);5 barcos na comida;4 madeira;2 ouro.",
+            "autor": "TSM_Kravz",
+            "avaliacao": "10"
+        },
+        "7 vills" : {
+            "texto": "construir doca, rodar 3 barcos de pesca e colocar aldeão na madeira;1 comida (porcos);1 comida (porcos);construir solar com os dois aldeões da comida e voltar para a coleta de porcos;1 madeira, rodar 3 ou 4 barcos de pesca;2 comida (porcos);Construir templo com o aldeão da madeira;1 comida. up de era (prometheus);6 ou 7 barcos na comida;5 madeira;2 ouro.",
+            "autor": "TSM_Kravz",
+            "avaliacao": "10"
+        }
+    },
+    "poseidon_mediterraneo" : {
+        "6 vills" : {
+            "texto": "construir doca, rodar 3 barcos de pesca e colocar aldeão na madeira;1 comida (porcos);1 comida (porcos);construir solar com os dois aldeões da comida e voltar para a coleta de porcos;1 madeira, rodar 2 barcos de pesca;1 comida (porcos);Construir templo com o aldeão da madeira;1 comida.up de era (prometheus);5 barcos na comida;4 madeira;2 ouro.",
+            "autor": "TSM_Kravz",
+            "avaliacao": "10"
+        },
+        "7 vills" : {
+            "texto": "construir doca, rodar 3 barcos de pesca e colocar aldeão na madeira;1 comida (porcos);1 comida (porcos);construir solar com os dois aldeões da comida e voltar para a coleta de porcos;1 madeira, rodar 3 ou 4 barcos de pesca;2 comida (porcos);Construir templo com o aldeão da madeira;1 comida. up de era (prometheus);6 ou 7 barcos na comida;5 madeira;2 ouro.",
+            "autor": "TSM_Kravz",
+            "avaliacao": "10"
+        }
+    },
     "ra_mediterraneo" : {
-        "exemplo 1" : {
-            "texto": "1 aldeão fazer cais e depois enviar ele para a madeira. 2 aldeões para madeira. Próximos 4 aldeões para a comida. Mais 2 na madeira. Deixar rodando aldeões para a comida até ter o suficiente para evoluir. Fazer templo depois de 6 barcos de pesca. Quando colocar para evoluir escolhe o deus Athena e você deve deixar 10 na madeira e 5 no ouro. Fazer o segundo cais, upar a machadinha, fazer casa e deixar rodando aldeões para a madeira. Essa tática você deve upar aproximadamente em 4:30 com 15 aldeões.",
-            "autor": "Teste",
+        "6 vills" : {
+            "texto": "construir doca, rodar 3 barcos de pesca e colocar aldeão na madeira;1 comida (porcos);1 comida (porcos);construir solar com os dois aldeões da comida e voltar para a coleta de porcos;1 madeira, rodar 2 barcos de pesca;1 comida (porcos);Construir templo com o aldeão da madeira;1 comida.up de era (prometheus);5 barcos na comida;4 madeira;2 ouro.",
+            "autor": "TSM_Kravz",
+            "avaliacao": "10"
+        }
+    },
+    "isis_mediterraneo" : {
+        "6 vills" : {
+            "texto": "construir doca, rodar 3 barcos de pesca e colocar aldeão na madeira;1 comida (porcos);1 comida (porcos);construir solar com os dois aldeões da comida e voltar para a coleta de porcos;1 madeira, rodar 2 barcos de pesca;1 comida (porcos);Construir templo com o aldeão da madeira;1 comida.up de era (prometheus);5 barcos na comida;4 madeira;2 ouro.",
+            "autor": "TSM_Kravz",
+            "avaliacao": "10"
+        }
+    },
+    "set_mediterraneo" : {
+        "6 vills" : {
+            "texto": "construir doca, rodar 3 barcos de pesca e colocar aldeão na madeira;1 comida (porcos);1 comida (porcos);construir solar com os dois aldeões da comida e voltar para a coleta de porcos;1 madeira, rodar 2 barcos de pesca;1 comida (porcos);Construir templo com o aldeão da madeira;1 comida.up de era (prometheus);5 barcos na comida;4 madeira;2 ouro.",
+            "autor": "TSM_Kravz",
+            "avaliacao": "10"
+        }
+    },
+    "thor_mediterraneo" : {
+        "6 vills" : {
+            "texto": "construir doca, rodar 3 barcos de pesca e colocar aldeão na madeira;1 comida (porcos);1 comida (porcos);construir solar com os dois aldeões da comida e voltar para a coleta de porcos;1 madeira, rodar 2 barcos de pesca;1 comida (porcos);Construir templo com o aldeão da madeira;1 comida.up de era (prometheus);5 barcos na comida;4 madeira;2 ouro.",
+            "autor": "TSM_Kravz",
+            "avaliacao": "10"
+        }
+    },
+    "odin_mediterraneo" : {
+        "6 vills" : {
+            "texto": "construir doca, rodar 3 barcos de pesca e colocar aldeão na madeira;1 comida (porcos);1 comida (porcos);construir solar com os dois aldeões da comida e voltar para a coleta de porcos;1 madeira, rodar 2 barcos de pesca;1 comida (porcos);Construir templo com o aldeão da madeira;1 comida.up de era (prometheus);5 barcos na comida;4 madeira;2 ouro.",
+            "autor": "TSM_Kravz",
+            "avaliacao": "10"
+        }
+    },
+    "loki_mediterraneo" : {
+        "6 vills" : {
+            "texto": "construir doca, rodar 3 barcos de pesca e colocar aldeão na madeira;1 comida (porcos);1 comida (porcos);construir solar com os dois aldeões da comida e voltar para a coleta de porcos;1 madeira, rodar 2 barcos de pesca;1 comida (porcos);Construir templo com o aldeão da madeira;1 comida.up de era (prometheus);5 barcos na comida;4 madeira;2 ouro.",
+            "autor": "TSM_Kravz",
+            "avaliacao": "10"
+        }
+    },
+    "urano_mediterraneo" : {
+        "6 vills" : {
+            "texto": "construir doca, rodar 3 barcos de pesca e colocar aldeão na madeira;1 comida (porcos);1 comida (porcos);construir solar com os dois aldeões da comida e voltar para a coleta de porcos;1 madeira, rodar 2 barcos de pesca;1 comida (porcos);Construir templo com o aldeão da madeira;1 comida.up de era (prometheus);5 barcos na comida;4 madeira;2 ouro.",
+            "autor": "TSM_Kravz",
+            "avaliacao": "10"
+        }
+    },
+    "kronos_mediterraneo" : {
+        "6 vills" : {
+            "texto": "construir doca, rodar 3 barcos de pesca e colocar aldeão na madeira;1 comida (porcos);1 comida (porcos);construir solar com os dois aldeões da comida e voltar para a coleta de porcos;1 madeira, rodar 2 barcos de pesca;1 comida (porcos);Construir templo com o aldeão da madeira;1 comida.up de era (prometheus);5 barcos na comida;4 madeira;2 ouro.",
+            "autor": "TSM_Kravz",
+            "avaliacao": "10"
+        }
+    },
+    "gaia_mediterraneo" : {
+        "6 vills" : {
+            "texto": "construir doca, rodar 3 barcos de pesca e colocar aldeão na madeira;1 comida (porcos);1 comida (porcos);construir solar com os dois aldeões da comida e voltar para a coleta de porcos;1 madeira, rodar 2 barcos de pesca;1 comida (porcos);Construir templo com o aldeão da madeira;1 comida.up de era (prometheus);5 barcos na comida;4 madeira;2 ouro.",
+            "autor": "TSM_Kravz",
             "avaliacao": "10"
         }
     }
