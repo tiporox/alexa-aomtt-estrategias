@@ -13,9 +13,50 @@
     },
 	"urano_oasis" : {
 		"centauro" : {
-			"texto": "teste",
+			"texto": "5 aldeões para a comida, 3 aldeões para a madeira e 2 aldeões para o ouro. Fazer casinha e mandar aldeões para a comida. Quando tiver 100 de ouro fazer o templo e clicar para upar quando tiver 400 comida. Quando colocar para evoluir escolhe o deus Hermes e voce deve deixar 3 no templo, 9 madeira, 1 ouro e 5 na comida. Na classica voce vai melhorar o centauro e fazer os 2 Herois.",
+			"autor": "TSM_player",
+			"avaliacao": "10"
+		}
+	},
+	"gaia_oasis" : {
+		"centauro" : {
+			"texto": "5 aldeões para a comida, 3 aldeões para a madeira e 2 aldeões para o ouro. Fazer casinha e mandar aldeões para a comida. Quando tiver 100 de ouro fazer o templo e clicar para upar quando tiver 400 comida. Quando colocar para evoluir escolhe o deus Hermes e voce deve deixar 3 no templo, 9 madeira, 1 ouro e 5 na comida. Na classica voce vai melhorar o centauro e fazer os 2 Herois.",
+			"autor": "TSM_player",
+			"avaliacao": "10"
+		}
+	},
+	"chronos_oasis" : {
+		"centauro" : {
+			"texto": "5 aldeões para a comida, 3 aldeões para a madeira e 2 aldeões para o ouro. Fazer casinha e mandar aldeões para a comida. Quando tiver 100 de ouro fazer o templo e clicar para upar quando tiver 400 comida. Quando colocar para evoluir escolhe o deus Hermes e voce deve deixar 3 no templo, 9 madeira, 1 ouro e 5 na comida. Na classica voce vai melhorar o centauro e fazer os 2 Herois.",
+			"autor": "TSM_player",
+			"avaliacao": "10"
+		}
+	},
+	"zeus_oasis" : {
+		"centauro" : {
+			"texto": "5 aldeões para a comida, 3 aldeões para a madeira e 2 aldeões para o ouro. Fazer casinha e mandar aldeões para a comida. Quando tiver 100 de ouro fazer o templo e clicar para upar quando tiver 400 comida. Quando colocar para evoluir escolhe o deus Hermes e voce deve deixar 3 no templo, 9 madeira, 1 ouro e 5 na comida. Na classica voce vai melhorar o centauro e fazer os 2 Herois.",
+			"autor": "TSM_player",
+			"avaliacao": "10"
+		}
+	},
+	"hades_oasis" : {
+		"centauro" : {
+			"texto": "5 aldeões para a comida, 3 aldeões para a madeira e 2 aldeões para o ouro. Fazer casinha e mandar aldeões para a comida. Quando tiver 100 de ouro fazer o templo e clicar para upar quando tiver 400 comida. Quando colocar para evoluir escolhe o deus Hermes e voce deve deixar 3 no templo, 9 madeira, 1 ouro e 5 na comida. Na classica voce vai melhorar o centauro e fazer os 2 Herois.",
+			"autor": "TSM_player",
+			"avaliacao": "10"
+		}
+	},
+	"poseidon_oasis" : {
+		"centauro" : {
+			"texto": "5 aldeões para a comida, 3 aldeões para a madeira e 2 aldeões para o ouro. Fazer casinha e mandar aldeões para a comida. Quando tiver 100 de ouro fazer o templo e clicar para upar quando tiver 400 comida. Quando colocar para evoluir escolhe o deus Hermes e voce deve deixar 3 no templo, 9 madeira, 1 ouro e 5 na comida. Na classica voce vai melhorar o centauro e fazer os 2 Herois.",
+			"autor": "TSM_player",
+			"avaliacao": "10"
+		}
+	},
+	"isis_buraco_dagua" : {
+		"2 tc" : {
+			"texto": "5 aldeões para a comida, 3 aldeões para a madeira e 2 aldeões para o ouro. Fazer casinha e mandar aldeões para a comida. Quando tiver 100 de ouro fazer o templo e clicar para upar quando tiver 400 comida. Quando colocar para evoluir escolhe o deus Hermes e voce deve deixar 7 na madeira, 6 no ouro e o restante na comida. Quando evoluir voce pega 5 aldeões do ouro e faz o segundo TC",
 			"autor": "TSM_player",
 			"avaliacao": "10"
 		}
 	}
-}
