@@ -31,6 +31,23 @@
          "avaliacao":"10"
       }
    },
+   "zeus_oasis":{
+      "5 vills":{
+         "$ref":"5 vills",
+         "steam_rgs":[
+            {
+               "nome":"Zeus1",
+               "link":"https://github.com/tiporox/alexa-aomtt-estrategias/edit/main/urano.json"
+            }
+         ],
+         "voobly_rgs":[
+            {
+               "nome":"Zeus1",
+               "link":"https://github.com/tiporox/alexa-aomtt-estrategias/edit/main/urano.json"
+            }
+         ]
+      }
+   },
    "zeus_mediterraneo":{
       "6 vills":{
          "$ref":"6 vills",
