@@ -15,9 +15,9 @@
 	},
 	"zeus_mediterraneo": {
 		"6 vills": {
-			"$ref": "taticas/6 vills",
+			"$ref": "6 vills",
 			"steam_rgs": [
-                {
+                            {
 				    "nome": "Zeus1",
 				    "link": "https://github.com/tiporox/alexa-aomtt-estrategias/edit/main/urano.json"
 			    }
@@ -30,7 +30,7 @@
             ]
 		},
 		"7 vills": {
-			"$ref": "taticas/7 vills"
+			"$ref": "7 vills"
 		}
 	},
 	"hades_mediterraneo": {
