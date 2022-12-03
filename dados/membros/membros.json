@@ -8,7 +8,7 @@
     },
     {
       "nome": "TSM_LightYagami[AD]",
-      "foto": "https://tiporox.github.io/alexa-aomtt-estrategias/dados/membros/foto/light.jpg",
+      "foto": "https://tiporox.github.io/alexa-aomtt-estrategias/dados/membros/foto/light.png",
       "rank": 2200,
       "youtube": "https://www.youtube.com/@kevenaom",
       "twitch": "http://twitch.com/keven_lightyagami"
@@ -26,5 +26,117 @@
       "rank": 2300,
       "youtube": "",
       "twitch": "https://www.twitch.tv/errow_1988"
+    },
+    {
+      "nome": "TSM_Player",
+      "foto": "https://tiporox.github.io/alexa-aomtt-estrategias/dados/membros/foto/player.png",
+      "rank": 2600,
+      "youtube": "",
+      "twitch": "https://www.twitch.tv/playeraot"
+    },
+    {
+      "nome": "TSM_tiporox",
+      "foto": "https://tiporox.github.io/alexa-aomtt-estrategias/dados/membros/foto/tiporox.png",
+      "rank": 2100,
+      "youtube": "",
+      "twitch": ""
+    },
+    {
+      "nome": "TSM_IInsanityII",
+      "foto": "https://tiporox.github.io/alexa-aomtt-estrategias/dados/membros/foto/insanity.png",
+      "rank": 2500,
+      "youtube": "",
+      "twitch": "https://www.twitch.tv/gabalbanez"
+    },
+    {
+      "nome": "TSM_Rá",
+      "foto": "https://tiporox.github.io/alexa-aomtt-estrategias/dados/membros/foto/ra.png",
+      "rank": 1900,
+      "youtube": "",
+      "twitch": ""
+    },
+    {
+      "nome": "TSM_Const",
+      "foto": "https://tiporox.github.io/alexa-aomtt-estrategias/dados/membros/foto/tsm_const.png",
+      "rank": 2300,
+      "youtube": "",
+      "twitch": ""
+    },
+    {
+      "nome": "TSM_MATA_PATO",
+      "foto": "https://tiporox.github.io/alexa-aomtt-estrategias/dados/membros/foto/tsm_mata_pato.png",
+      "rank": 2000,
+      "youtube": "",
+      "twitch": ""
+    },
+    {
+      "nome": "TSM_Oríris",
+      "foto": "https://tiporox.github.io/alexa-aomtt-estrategias/dados/membros/foto/tsm_osiris.png",
+      "rank": 2200,
+      "youtube": "",
+      "twitch": ""
+    },
+    {
+      "nome": "TSM_Lugh",
+      "foto": "https://tiporox.github.io/alexa-aomtt-estrategias/dados/membros/foto/TSM_Lugh.png",
+      "rank": 2100,
+      "youtube": "",
+      "twitch": ""
+    },
+    {
+      "nome": "TSM_Xeninha",
+      "foto": "https://tiporox.github.io/alexa-aomtt-estrategias/dados/membros/foto/tsm_xeninha.png",
+      "rank": 2100,
+      "youtube": "",
+      "twitch": ""
+    },
+    {
+      "nome": "TSM_Manuel",
+      "foto": "https://tiporox.github.io/alexa-aomtt-estrategias/dados/membros/foto/tsm_manuel.png",
+      "rank": 1800,
+      "youtube": "",
+      "twitch": ""
+    },
+    {
+      "nome": "TSM_Palmito",
+      "foto": "https://tiporox.github.io/alexa-aomtt-estrategias/dados/membros/foto/tsm_palmito.png",
+      "rank": 2200,
+      "youtube": "",
+      "twitch": ""
+    },
+    {
+      "nome": "TSM_Chacal",
+      "foto": "https://tiporox.github.io/alexa-aomtt-estrategias/dados/membros/foto/tsm_chacal.png",
+      "rank": 2000,
+      "youtube": "",
+      "twitch": ""
+    },
+    {
+      "nome": "TSM_HunterStars",
+      "foto": "https://tiporox.github.io/alexa-aomtt-estrategias/dados/membros/foto/tsm_hunterstars.png",
+      "rank": 1900,
+      "youtube": "",
+      "twitch": ""
+    },
+    {
+      "nome": "TSM_Alphaya12",
+      "foto": "https://tiporox.github.io/alexa-aomtt-estrategias/dados/membros/foto/alphaya12.png",
+      "rank": 1800,
+      "youtube": "",
+      "twitch": ""
+    },
+    {
+      "nome": "TSM_Frango",
+      "foto": "https://tiporox.github.io/alexa-aomtt-estrategias/dados/membros/foto/tsm_frango.png",
+      "rank": 2000,
+      "youtube": "",
+      "twitch": ""
+    },
+    {
+      "nome": "TSM_Nubzinh",
+      "foto": "https://tiporox.github.io/alexa-aomtt-estrategias/dados/membros/foto/nubzinh.png",
+      "rank": 1900,
+      "youtube": "",
+      "twitch": ""
     }
   ]
