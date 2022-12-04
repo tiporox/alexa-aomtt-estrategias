@@ -9,6 +9,24 @@
       "tabela": "https://challonge.com/pt_BR/dczqw39s"
     },
     {
+        "id": "m0uptk6z",
+        "torneio_ativo": false,
+        "nome": "II Copa BR AoM EE, 56  Players - Agosto de 2022",
+        "foto": "https://tiporox.github.io/alexa-aomtt-estrategias/dados/torneios/copa_br_ago_22.png",
+        "youtube": "https://www.youtube.com/playlist?list=PLf2eoo_Xi2dkvFgyTNgKsAhYHsIdJKUa9",
+        "twitch": "",
+        "tabela": "https://challonge.com/pt_BR/m0uptk6z"
+    },
+    {
+      "id": "uy1u5uil",
+      "torneio_ativo": false,
+      "nome": "Torneio de Verão 21/22, 35 Players - Desembro de 2021",
+      "foto": "https://tiporox.github.io/alexa-aomtt-estrategias/dados/torneios/torneio_verao_21_22.png",
+      "youtube": "https://www.youtube.com/playlist?list=PLf2eoo_Xi2dn2Q5pVql1qVJlOVGMozhLt",
+      "twitch": "",
+      "tabela": "https://challonge.com/pt_BR/uy1u5uil"
+    },    
+    {
       "id": "ko08gbex",
       "torneio_ativo": false,
       "nome": "Copa AoM BR, 28 Players - Setembro de 2021",
@@ -17,4 +35,5 @@
       "twitch": "",
       "tabela": "https://challonge.com/pt_BR/ko08gbex"
     }
-  ]
+]    
+  
