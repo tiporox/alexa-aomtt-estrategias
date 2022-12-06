@@ -864,6 +864,26 @@
          ]
       }
    },
+   "hades_alfheim":{
+      "7 vills em 4:30m":{
+         "$ref":"7v 4:30m terra",
+         "steam_videos":[
+         ],
+         "steam_rgs":[
+         ],
+         "voobly_rgs":[
+         ]
+      },
+      "2 TCs":{
+         "$ref":"2tc terra",
+         "steam_videos":[
+         ],
+         "steam_rgs":[
+         ],
+         "voobly_rgs":[
+         ]
+      }
+   },
    "poseidon_alfheim":{
       "7 vills em 4:30m":{
          "$ref":"7v 4:30m terra",
