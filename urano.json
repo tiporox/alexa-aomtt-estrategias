@@ -14,9 +14,9 @@
          "avaliacao":"10",
          "tipo": "agua"
       },
-      "6v 4m terra":{
+      "7v 4:30m terra":{
          "texto":"",
-         "texto_site":"3 Aldeões para comida.<br/>1 aldeão leva 5 madeiras para fazer uma casa e um templo, ele é enviado para o gado quando terminar.<br/>2 Aldeões para comida.<br/>Tempo de avanço estimado 2:50 - 3:00 (Prometeu)<br/>Você distribui aos aldeões 3 madeiras, 2 ouros e 1 comida.<br/><br/>Conselho: Exclua os primeiros prometheans para atacar com prometéicos<br/><br/>Você faz 2 quartéis de contra-ataque ao avançar e elimina turmas, 3 primeiros turmas você faz heróis, se possível com um aldeão extra melhor.<br/>Comece o ataque e sua economia deve enviar aldeões para comida para que no minuto 7 a 8 tire alguns murmillos e não pare de atacar.",
+         "texto_site":"1 Guildas de aldeões e atualizações de cães de caça, são enviadas para comida após a conclusão.<br/>1 Aldeão para comida.<br/>1 Aldeão para madeira.<br/>1 aldeão para ouro quando eu juntar 25 prepará-lo para fazer uma casa e voltar para o ouro.<br/>1 Aldeão para comida.<br/>1 Aldeão constrói templo, é enviado para a madeira após a conclusão.<br/>1 Aldeão para ouro.<br/>Tempo estimado de avanço 3:20-3:40 (Prometheus)<br/>Dica: atualize a picareta conforme você avança para obter mais ouro<br/>Distribua 1 Aldeão de comida para madeira.<br/><br/>Você faz heróis de seus três oráculos e spam de prometheans, você cria 2 quartéis de contra-ataque e 1 quartel normal você tira murmillos e turmas e rushas enquanto não negligencia sua economia continue pressionando o inimigo até que você possa criar mais centros urbanos para melhorar sua economia.",
          "autor":"TSM_tiporox",
          "avaliacao":"10"
       },
@@ -42,6 +42,303 @@
          "tipo": "terra"
       }
    },
+   "chronos_alfheim":{
+      "6 vills em 4 min":{
+         "$ref":"6v 4m terra",
+         "steam_videos":[
+         ],
+         "steam_rgs":[
+         ],
+         "voobly_rgs":[
+         ]
+      }
+   },
+   "gaia_alfheim":{
+      "6 vills em 4 min":{
+         "$ref":"6v 4m terra",
+         "steam_videos":[
+         ],
+         "steam_rgs":[
+         ],
+         "voobly_rgs":[
+         ]
+      }
+   },
+   "urano_alfheim":{
+      "6 vills em 4 min":{
+         "$ref":"6v 4m terra",
+         "steam_videos":[
+         ],
+         "steam_rgs":[
+         ],
+         "voobly_rgs":[
+         ]
+      }
+   },
+   "thor_alfheim":{
+      "6 vills em 4 min":{
+         "$ref":"6v 4m terra",
+         "steam_videos":[
+         ],
+         "steam_rgs":[
+         ],
+         "voobly_rgs":[
+         ]
+      }
+   },
+   "loki_alfheim":{
+      "6 vills em 4 min":{
+         "$ref":"6v 4m terra",
+         "steam_videos":[
+         ],
+         "steam_rgs":[
+         ],
+         "voobly_rgs":[
+         ]
+      }
+   },
+   "odin_alfheim":{
+      "6 vills em 4 min":{
+         "$ref":"6v 4m terra",
+         "steam_videos":[
+         ],
+         "steam_rgs":[
+         ],
+         "voobly_rgs":[
+         ]
+      }
+   },
+   "isis_alfheim":{
+      "6 vills em 4 min":{
+         "$ref":"6v 4m terra",
+         "steam_videos":[
+         ],
+         "steam_rgs":[
+         ],
+         "voobly_rgs":[
+         ]
+      }
+   },
+   "set_alfheim":{
+      "6 vills em 4 min":{
+         "$ref":"6v 4m terra",
+         "steam_videos":[
+         ],
+         "steam_rgs":[
+         ],
+         "voobly_rgs":[
+         ]
+      }
+   },
+   "ra_alfheim":{
+      "6 vills em 4 min":{
+         "$ref":"6v 4m terra",
+         "steam_videos":[
+         ],
+         "steam_rgs":[
+         ],
+         "voobly_rgs":[
+         ]
+      }
+   },
+   "chronos_oasis":{
+      "6 vills em 4 min":{
+         "$ref":"6v 4m terra",
+         "steam_videos":[
+         ],
+         "steam_rgs":[
+         ],
+         "voobly_rgs":[
+         ]
+      }
+   },
+   "gaia_oasis":{
+      "6 vills em 4 min":{
+         "$ref":"6v 4m terra",
+         "steam_videos":[
+         ],
+         "steam_rgs":[
+         ],
+         "voobly_rgs":[
+         ]
+      }
+   },
+   "urano_oasis":{
+      "6 vills em 4 min":{
+         "$ref":"6v 4m terra",
+         "steam_videos":[
+         ],
+         "steam_rgs":[
+         ],
+         "voobly_rgs":[
+         ]
+      }
+   },
+   "thor_oasis":{
+      "6 vills em 4 min":{
+         "$ref":"6v 4m terra",
+         "steam_videos":[
+         ],
+         "steam_rgs":[
+         ],
+         "voobly_rgs":[
+         ]
+      }
+   },
+   "loki_oasis":{
+      "6 vills em 4 min":{
+         "$ref":"6v 4m terra",
+         "steam_videos":[
+         ],
+         "steam_rgs":[
+         ],
+         "voobly_rgs":[
+         ]
+      }
+   },
+   "odin_oasis":{
+      "6 vills em 4 min":{
+         "$ref":"6v 4m terra",
+         "steam_videos":[
+         ],
+         "steam_rgs":[
+         ],
+         "voobly_rgs":[
+         ]
+      }
+   },
+   "isis_oasis":{
+      "6 vills em 4 min":{
+         "$ref":"6v 4m terra",
+         "steam_videos":[
+         ],
+         "steam_rgs":[
+         ],
+         "voobly_rgs":[
+         ]
+      }
+   },
+   "set_oasis":{
+      "6 vills em 4 min":{
+         "$ref":"6v 4m terra",
+         "steam_videos":[
+         ],
+         "steam_rgs":[
+         ],
+         "voobly_rgs":[
+         ]
+      }
+   },
+   "ra_oasis":{
+      "6 vills em 4 min":{
+         "$ref":"6v 4m terra",
+         "steam_videos":[
+         ],
+         "steam_rgs":[
+         ],
+         "voobly_rgs":[
+         ]
+      }
+   },
+   "chronos_savana":{
+      "6 vills em 4 min":{
+         "$ref":"6v 4m terra",
+         "steam_videos":[
+         ],
+         "steam_rgs":[
+         ],
+         "voobly_rgs":[
+         ]
+      }
+   },
+   "gaia_savana":{
+      "6 vills em 4 min":{
+         "$ref":"6v 4m terra",
+         "steam_videos":[
+         ],
+         "steam_rgs":[
+         ],
+         "voobly_rgs":[
+         ]
+      }
+   },
+   "urano_savana":{
+      "6 vills em 4 min":{
+         "$ref":"6v 4m terra",
+         "steam_videos":[
+         ],
+         "steam_rgs":[
+         ],
+         "voobly_rgs":[
+         ]
+      }
+   },
+   "thor_savana":{
+      "6 vills em 4 min":{
+         "$ref":"6v 4m terra",
+         "steam_videos":[
+         ],
+         "steam_rgs":[
+         ],
+         "voobly_rgs":[
+         ]
+      }
+   },
+   "loki_savana":{
+      "6 vills em 4 min":{
+         "$ref":"6v 4m terra",
+         "steam_videos":[
+         ],
+         "steam_rgs":[
+         ],
+         "voobly_rgs":[
+         ]
+      }
+   },
+   "odin_savana":{
+      "6 vills em 4 min":{
+         "$ref":"6v 4m terra",
+         "steam_videos":[
+         ],
+         "steam_rgs":[
+         ],
+         "voobly_rgs":[
+         ]
+      }
+   },
+   "isis_savana":{
+      "6 vills em 4 min":{
+         "$ref":"6v 4m terra",
+         "steam_videos":[
+         ],
+         "steam_rgs":[
+         ],
+         "voobly_rgs":[
+         ]
+      }
+   },
+   "set_savana":{
+      "6 vills em 4 min":{
+         "$ref":"6v 4m terra",
+         "steam_videos":[
+         ],
+         "steam_rgs":[
+         ],
+         "voobly_rgs":[
+         ]
+      }
+   },
+   "ra_savana":{
+      "6 vills em 4 min":{
+         "$ref":"6v 4m terra",
+         "steam_videos":[
+         ],
+         "steam_rgs":[
+         ],
+         "voobly_rgs":[
+         ]
+      }
+   },
    "zeus_oasis":{
       "5 vills":{
          "$ref":"5 vills",
@@ -54,11 +351,29 @@
          "voobly_rgs":[
             
          ]
+      },
+      "6 vills em 4 min":{
+         "$ref":"6v 4m terra",
+         "steam_videos":[
+         ],
+         "steam_rgs":[
+         ],
+         "voobly_rgs":[
+         ]
       }
    },
    "zeus_alfheim":{
       "6 vills em 4 min":{
          "$ref":"6v 4m terra",
+         "steam_videos":[
+         ],
+         "steam_rgs":[
+         ],
+         "voobly_rgs":[
+         ]
+      },
+      "7 vills em 4:30m":{
+         "$ref":"7v 4:30m terra",
          "steam_videos":[
          ],
          "steam_rgs":[
