@@ -44,7 +44,7 @@
    },
    "zeus_oasis":{
       "5 vills":{
-         "$ref":"6v 4m terra",
+         "$ref":"5 vills",
          "steam_videos":[
            
          ],
@@ -58,24 +58,12 @@
    },
    "zeus_alfheim":{
       "6 vills em 4 min":{
-         "$ref":"5 vills",
+         "$ref":"6v 4m terra",
          "steam_videos":[
-            {
-               "nome":"Zeus1",
-               "link":"https://github.com/tiporox/alexa-aomtt-estrategias/edit/main/urano.json"
-            }
          ],
          "steam_rgs":[
-            {
-               "nome":"Zeus1",
-               "link":"https://github.com/tiporox/alexa-aomtt-estrategias/edit/main/urano.json"
-            }
          ],
          "voobly_rgs":[
-            {
-               "nome":"Zeus1",
-               "link":"https://github.com/tiporox/alexa-aomtt-estrategias/edit/main/urano.json"
-            }
          ]
       }
    },
