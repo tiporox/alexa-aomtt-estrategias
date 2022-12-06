@@ -404,6 +404,58 @@
          ]
       }
    },
+   "hades_oasis":{      
+      "7 vills em 4:30m":{
+         "$ref":"7v 4:30m terra",
+         "steam_videos":[
+         ],
+         "steam_rgs":[
+         ],
+         "voobly_rgs":[
+         ]
+      },
+      "2 TCs":{
+         "$ref":"2tc terra",
+         "steam_videos":[
+         ],
+         "steam_rgs":[
+         ],
+         "voobly_rgs":[
+         ]
+      }
+   },
+   "poseidon_oasis":{
+      "5 vills":{
+         "$ref":"5 vills",
+         "steam_videos":[
+           
+         ],
+         "steam_rgs":[
+            
+         ],
+         "voobly_rgs":[
+            
+         ]
+      },
+      "6 vills em 4 min":{
+         "$ref":"6v 4m terra",
+         "steam_videos":[
+         ],
+         "steam_rgs":[
+         ],
+         "voobly_rgs":[
+         ]
+      },
+      "7 vills em 4:30m":{
+         "$ref":"7v 4:30m terra",
+         "steam_videos":[
+         ],
+         "steam_rgs":[
+         ],
+         "voobly_rgs":[
+         ]
+      }
+   },
    "zeus_oasis":{
       "5 vills":{
          "$ref":"5 vills",
