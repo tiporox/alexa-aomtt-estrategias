@@ -277,11 +277,29 @@
          ],
          "voobly_rgs":[
          ]
+      },
+      "7 vills em 4:30m":{
+         "$ref":"7v 4:30m terra",
+         "steam_videos":[
+         ],
+         "steam_rgs":[
+         ],
+         "voobly_rgs":[
+         ]
       }
    },
    "thor_savana":{
       "6 vills em 4 min":{
          "$ref":"6v 4m terra",
+         "steam_videos":[
+         ],
+         "steam_rgs":[
+         ],
+         "voobly_rgs":[
+         ]
+      },
+      "7 vills em 4:30m":{
+         "$ref":"7v 4:30m terra",
          "steam_videos":[
          ],
          "steam_rgs":[
@@ -299,11 +317,29 @@
          ],
          "voobly_rgs":[
          ]
+      },
+      "7 vills em 4:30m":{
+         "$ref":"7v 4:30m terra",
+         "steam_videos":[
+         ],
+         "steam_rgs":[
+         ],
+         "voobly_rgs":[
+         ]
       }
    },
    "odin_savana":{
       "6 vills em 4 min":{
          "$ref":"6v 4m terra",
+         "steam_videos":[
+         ],
+         "steam_rgs":[
+         ],
+         "voobly_rgs":[
+         ]
+      },
+      "7 vills em 4:30m":{
+         "$ref":"7v 4:30m terra",
          "steam_videos":[
          ],
          "steam_rgs":[
@@ -366,18 +402,293 @@
          ],
          "voobly_rgs":[
          ]
-      }
-   },
-   "zeus_alfheim":{
-      "6 vills em 4 min":{
-         "$ref":"6v 4m terra",
+      },
+      "7 vills em 4:30m":{
+         "$ref":"7v 4:30m terra",
          "steam_videos":[
          ],
          "steam_rgs":[
          ],
          "voobly_rgs":[
          ]
-      },
+      }
+   },
+   "zeus_alfheim":{
+      "7 vills em 4:30m":{
+         "$ref":"7v 4:30m terra",
+         "steam_videos":[
+         ],
+         "steam_rgs":[
+         ],
+         "voobly_rgs":[
+         ]
+      }
+   },
+   "zeus_pantano":{
+      "7 vills em 4:30m":{
+         "$ref":"7v 4:30m terra",
+         "steam_videos":[
+         ],
+         "steam_rgs":[
+         ],
+         "voobly_rgs":[
+         ]
+      }
+   },
+   "zeus_tundra":{
+      "7 vills em 4:30m":{
+         "$ref":"7v 4:30m terra",
+         "steam_videos":[
+         ],
+         "steam_rgs":[
+         ],
+         "voobly_rgs":[
+         ]
+      }
+   },
+   "zeus_buraco_dagua":{
+      "7 vills em 4:30m":{
+         "$ref":"7v 4:30m terra",
+         "steam_videos":[
+         ],
+         "steam_rgs":[
+         ],
+         "voobly_rgs":[
+         ]
+      }
+   },
+   "thor_pantano":{
+      "7 vills em 4:30m":{
+         "$ref":"7v 4:30m terra",
+         "steam_videos":[
+         ],
+         "steam_rgs":[
+         ],
+         "voobly_rgs":[
+         ]
+      }
+   },
+   "thor_tundra":{
+      "7 vills em 4:30m":{
+         "$ref":"7v 4:30m terra",
+         "steam_videos":[
+         ],
+         "steam_rgs":[
+         ],
+         "voobly_rgs":[
+         ]
+      }
+   },
+   "thor_buraco_dagua":{
+      "7 vills em 4:30m":{
+         "$ref":"7v 4:30m terra",
+         "steam_videos":[
+         ],
+         "steam_rgs":[
+         ],
+         "voobly_rgs":[
+         ]
+      }
+   },
+   "loki_pantano":{
+      "7 vills em 4:30m":{
+         "$ref":"7v 4:30m terra",
+         "steam_videos":[
+         ],
+         "steam_rgs":[
+         ],
+         "voobly_rgs":[
+         ]
+      }
+   },
+   "loki_tundra":{
+      "7 vills em 4:30m":{
+         "$ref":"7v 4:30m terra",
+         "steam_videos":[
+         ],
+         "steam_rgs":[
+         ],
+         "voobly_rgs":[
+         ]
+      }
+   },
+   "loki_buraco_dagua":{
+      "7 vills em 4:30m":{
+         "$ref":"7v 4:30m terra",
+         "steam_videos":[
+         ],
+         "steam_rgs":[
+         ],
+         "voobly_rgs":[
+         ]
+      }
+   },
+   "odin_pantano":{
+      "7 vills em 4:30m":{
+         "$ref":"7v 4:30m terra",
+         "steam_videos":[
+         ],
+         "steam_rgs":[
+         ],
+         "voobly_rgs":[
+         ]
+      }
+   },
+   "odin_tundra":{
+      "7 vills em 4:30m":{
+         "$ref":"7v 4:30m terra",
+         "steam_videos":[
+         ],
+         "steam_rgs":[
+         ],
+         "voobly_rgs":[
+         ]
+      }
+   },
+   "odin_buraco_dagua":{
+      "7 vills em 4:30m":{
+         "$ref":"7v 4:30m terra",
+         "steam_videos":[
+         ],
+         "steam_rgs":[
+         ],
+         "voobly_rgs":[
+         ]
+      }
+   },
+   "poseidon_pantano":{
+      "7 vills em 4:30m":{
+         "$ref":"7v 4:30m terra",
+         "steam_videos":[
+         ],
+         "steam_rgs":[
+         ],
+         "voobly_rgs":[
+         ]
+      }
+   },
+   "poseidon_tundra":{
+      "7 vills em 4:30m":{
+         "$ref":"7v 4:30m terra",
+         "steam_videos":[
+         ],
+         "steam_rgs":[
+         ],
+         "voobly_rgs":[
+         ]
+      }
+   },
+   "poseidon_buraco_dagua":{
+      "7 vills em 4:30m":{
+         "$ref":"7v 4:30m terra",
+         "steam_videos":[
+         ],
+         "steam_rgs":[
+         ],
+         "voobly_rgs":[
+         ]
+      }
+   },
+   "chronos_pantano":{
+      "7 vills em 4:30m":{
+         "$ref":"7v 4:30m terra",
+         "steam_videos":[
+         ],
+         "steam_rgs":[
+         ],
+         "voobly_rgs":[
+         ]
+      }
+   },
+   "chronos_tundra":{
+      "7 vills em 4:30m":{
+         "$ref":"7v 4:30m terra",
+         "steam_videos":[
+         ],
+         "steam_rgs":[
+         ],
+         "voobly_rgs":[
+         ]
+      }
+   },
+   "chronos_buraco_dagua":{
+      "7 vills em 4:30m":{
+         "$ref":"7v 4:30m terra",
+         "steam_videos":[
+         ],
+         "steam_rgs":[
+         ],
+         "voobly_rgs":[
+         ]
+      }
+   },
+   "gaia_pantano":{
+      "7 vills em 4:30m":{
+         "$ref":"7v 4:30m terra",
+         "steam_videos":[
+         ],
+         "steam_rgs":[
+         ],
+         "voobly_rgs":[
+         ]
+      }
+   },
+   "gaia_tundra":{
+      "7 vills em 4:30m":{
+         "$ref":"7v 4:30m terra",
+         "steam_videos":[
+         ],
+         "steam_rgs":[
+         ],
+         "voobly_rgs":[
+         ]
+      }
+   },
+   "gaia_buraco_dagua":{
+      "7 vills em 4:30m":{
+         "$ref":"7v 4:30m terra",
+         "steam_videos":[
+         ],
+         "steam_rgs":[
+         ],
+         "voobly_rgs":[
+         ]
+      }
+   },
+   "urano_pantano":{
+      "7 vills em 4:30m":{
+         "$ref":"7v 4:30m terra",
+         "steam_videos":[
+         ],
+         "steam_rgs":[
+         ],
+         "voobly_rgs":[
+         ]
+      }
+   },
+   "urano_tundra":{
+      "7 vills em 4:30m":{
+         "$ref":"7v 4:30m terra",
+         "steam_videos":[
+         ],
+         "steam_rgs":[
+         ],
+         "voobly_rgs":[
+         ]
+      }
+   },
+   "urano_buraco_dagua":{
+      "7 vills em 4:30m":{
+         "$ref":"7v 4:30m terra",
+         "steam_videos":[
+         ],
+         "steam_rgs":[
+         ],
+         "voobly_rgs":[
+         ]
+      }
+   },
+   "zeus_savana":{
       "7 vills em 4:30m":{
          "$ref":"7v 4:30m terra",
          "steam_videos":[
