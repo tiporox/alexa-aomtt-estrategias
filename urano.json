@@ -7,10 +7,10 @@
          "avaliacao":"10",
          "tipo": "terra"
       },
-      "5 vills mar":{
-         "texto":"Primeiro aldeão envie para coletar alimento, Envie o segundo aldeão coletar alimento, Envie o terceiro aldeão coletar alimento, Envie o quarto aldeão construir casa e depois construir o templo, quando ele terminar de construir o templo, envie para coletar alimento, Envie o quinto aldeão coletar alimento. Evolua de idade por prometêus; Deixe 5 aldeões na carne até completar 80 de comida, após alcançar os 80 de comida, distribua dois aldeões da comida para coletar madeira e dois para coletar ouro. Quando fizer esta tática, você deve upar aos três minutos e trinta segundos, aproximadamente.",
-         "texto_site":"Primeiro aldeão envie para coletar alimento; <br/> Envie o segundo aldeão coletar alimento; <br/> Envie o terceiro aldeão coletar alimento; <br/> Envie o quarto aldeão construir casa e depois construir o templo; <br/> quando ele terminar de construir o templo, envie para coletar alimento; <br/> Envie o quinto aldeão coletar alimento; <br/> Evolua de idade por Prometheus; <br/> Deixe 5 aldeões na carne até completar 80 de comida; <br/> Distribua dois aldeões da comida para coletar madeira e dois para coletar ouro; <br/> Quando fizer esta tática, você deve upar aos três minutos e trinta segundos, aproximadamente. <br/>",
-         "autor":"TSM_Kravz",
+      "6 vills mar":{
+         "texto":"",
+         "texto_site":"1 Aldeão faz doca e vai para a madeira, você faz 2 barcos de pesca, então quando você junta madeira suficiente para fazer uma casa, ela é enviada para a madeira quando terminar.<br/>2 Aldeões para comida.<br/>1 Aldeão para a madeira, quando ele pode fazer um templo e é enviado para a comida quando terminar.<br/>3 aldeões para alimentar de preferência gado.<br/>Tempo estimado de antecedência 3:50-4:00 (Prometheus-Ocean)<br/><br/>Você distribui os aldeões de acordo com a importância do mar se quiser dar muita luta pelo mar 4 aldeões para madeira, 2 para ouro e 1 para comida caso contrário seria 3 para madeira, 2 para ouro e 2 para comida, fazer oráculos heróis e criar dois quartéis spam de murmillos e atacar docas e navios por mar, se você avançasse com prometheus você acompanha com murmillos mas ocean com servo mas de preferência prometheus é Melhor.",
+         "autor":"TSM_tiporox",
          "avaliacao":"10",
          "tipo": "agua"
       },
@@ -31,27 +31,6 @@
          "texto_site":"1 Aldeão faz uma guilda, melhora os cães de caça e vai para a comida<br/>2 Aldeão comida<br/>3 Aldeão madeira<br/>4 Aldeão de ouro<br/>5 e 6 Aldeões vão para a carne, o de ouro faz o templo<br/>7 Aldeão de ouro<br/>Avanço na idade (prometheus)<br/>Passe um aldeão de carne to wood<br/><br/>Quando você ficar velho, com um de madeira ele faz o 2º tc, você usa valor nos oráculos e o aldeão que está fazendo o TC então pode apertar para que ele acredite que você vai entrar full no clássico.<br/><br/>1 Aldeão mais madeira<br/>2 Aldeões mais comida<br/><br/>Quando o aldeão terminar de fazer o tc vc faz armaria e vai direto pro heroico distribua os aldeões assim: 3Alimentos 3Gold 3Madeira 1Construtor que vai fazer 2 quartéis militares e 1 palácio",
          "autor":"TSM_tiporox",
          "avaliacao":"10"
-      },
-      "7 vills":{
-         "texto":"Primeiro aldeão envie para construir dóca e coloque o aldeão na madeira, róde 3 barcos de pésca, Envie o segundo aldeão coletar pórcos, Envie o terceiro aldeão para coletar pórcos, construa a casa com os dois aldeões da comida e após terminar a casa, péça para voltarem para a coléta de pórcos, Envie o quarto aldeão para a madeira e róde três ou quatro barcos de pésca, Envie o quinto aldeão para coletar pórcos, Construa o templo com o aldeão da madeira, Envie o sexto aldeão para coletar pórcos. Envie o sétimo aldeão para coletar pórcos. Evolua de idade por prometeus; Construa mais um barco de pésca durante a passagem de era, distribua quatro aldeões da comida para a madeira, um aldeão para construir a segunda dóca, e dois aldeões que estavam na comida para o ouro. Ao terminar a dóca o aldeão deve coletar madeira. Quando fizer esta tática, você deve upar aos quatro minutos e trinta segundos, aproximadamente.",
-         "texto_site":"linha 1 <br/> linha 2 <br/>",
-         "autor":"TSM_Kravz",
-         "avaliacao":"10",
-         "tipo": "terra"
-      },
-      "8 vills":{
-         "texto":"Primeiro aldeão envie para construir dóca e coloque o aldeão na madeira, róde 3 barcos de pésca, Envie o segundo aldeão coletar pórcos, Envie o terceiro aldeão para coletar pórcos, construa a casa com os dois aldeões da comida e após terminar a casa, péça para voltarem para a coléta de pórcos, Envie o quarto aldeão para a madeira e róde três ou quatro barcos de pésca, Envie o quinto aldeão para coletar pórcos, Construa o templo com o aldeão da madeira, Envie o sexto aldeão para coletar pórcos. Envie o sétimo aldeão para coletar pórcos. Evolua de idade por prometeus; Construa mais um barco de pésca durante a passagem de era, distribua quatro aldeões da comida para a madeira, um aldeão para construir a segunda dóca, e dois aldeões que estavam na comida para o ouro. Ao terminar a dóca o aldeão deve coletar madeira. Quando fizer esta tática, você deve upar aos quatro minutos e trinta segundos, aproximadamente.",
-         "texto_site":"linha 1 <br/> linha 2 <br/>",
-         "autor":"TSM_Kravz",
-         "avaliacao":"10",
-         "tipo": "terra"
-      },
-      "2 tcs":{
-         "texto":"Primeiro aldeão envie para construir dóca e coloque o aldeão na madeira, róde 3 barcos de pésca, Envie o segundo aldeão coletar pórcos, Envie o terceiro aldeão para coletar pórcos, construa a casa com os dois aldeões da comida e após terminar a casa, péça para voltarem para a coléta de pórcos, Envie o quarto aldeão para a madeira e róde três ou quatro barcos de pésca, Envie o quinto aldeão para coletar pórcos, Construa o templo com o aldeão da madeira, Envie o sexto aldeão para coletar pórcos. Envie o sétimo aldeão para coletar pórcos. Evolua de idade por prometeus; Construa mais um barco de pésca durante a passagem de era, distribua quatro aldeões da comida para a madeira, um aldeão para construir a segunda dóca, e dois aldeões que estavam na comida para o ouro. Ao terminar a dóca o aldeão deve coletar madeira. Quando fizer esta tática, você deve upar aos quatro minutos e trinta segundos, aproximadamente.",
-         "texto_site":"linha 1 <br/> linha 2 <br/>",
-         "autor":"TSM_Kravz",
-         "avaliacao":"10",
-         "tipo": "terra"
       }
    },
    "chronos_alfheim":{
@@ -945,8 +924,8 @@
       }
    },
    "zeus_mediterraneo":{
-      "5 vills":{
-         "$ref":"5 vills mar",
+      "6 vills em 4min":{
+         "$ref":"6 vills mar",
          "steam_videos":[
             {
                "nome":"Zeus1",
@@ -965,96 +944,391 @@
                "link":"https://github.com/tiporox/alexa-aomtt-estrategias/edit/main/urano.json"
             }
          ]
-      },
-      "7 vills":{
-         "$ref":"7 vills"
       }
    },
    "hades_mediterraneo":{
-      "6 vills":{
-         "texto":"Primeiro aldeão envie para construir dóca e colóque o aldeão na madeira, róde 3 barcos de pésca, Envie o segundo aldeão coletar pórcos, Envie o terceiro aldeão para coletar pórcos, construa a casa com os dois aldeões da comida e após terminar a casa, peça para voltarem para a coléta de pórcos, Envie o quarto aldeão para a madeira e róde 2 barcos de pésca, Envie o quinto aldeão para coletar pórcos, Construa o templo com o aldeão da madeira e, depois, envie os aldeões que estavam na madeira para a comida, Envie o sexto aldeão para coletar pórcos. Evolua de idade por prometêus; Construa mais um barco de pésca durante a passagem de era, distribua três aldeões da comida para a madeira, um aldeão para construir a segunda dóca, e dois aldeões que estavam na comida para o ouro. Ao terminar a dóca o aldeão deve coletar madeira. Quando fizer esta tática, você deve upar aos quatro minutos e dez segundos, aproximadamente.",
-         "autor":"TSM_Kravz",
-         "avaliacao":"10"
-      },
-      "7 vills":{
-         "texto":"Primeiro aldeão envie para construir dóca e coloque o aldeão na madeira, róde 3 barcos de pésca, Envie o segundo aldeão coletar pórcos, Envie o terceiro aldeão para coletar pórcos, construa a casa com os dois aldeões da comida e após terminar a casa, péça para voltarem para a coléta de pórcos, Envie o quarto aldeão para a madeira e róde três ou quatro barcos de pésca, Envie o quinto aldeão para coletar pórcos, Construa o templo com o aldeão da madeira, Envie o sexto aldeão para coletar pórcos. Envie o sétimo aldeão para coletar pórcos. Evolua de idade por prometeus; Construa mais um barco de pésca durante a passagem de era, distribua quatro aldeões da comida para a madeira, um aldeão para construir a segunda dóca, e dois aldeões que estavam na comida para o ouro. Ao terminar a dóca o aldeão deve coletar madeira. Quando fizer esta tática, você deve upar aos quatro minutos e trinta segundos, aproximadamente.",
-         "autor":"TSM_Kravz",
-         "avaliacao":"10"
+      "6 vills em 4min":{
+         "$ref":"6 vills mar",
+         "steam_videos":[
+         ],
+         "steam_rgs":[
+         ],
+         "voobly_rgs":[
+         ]
       }
    },
    "poseidon_mediterraneo":{
-      "6 vills":{
-         "texto":"Primeiro aldeão envie para construir dóca e colóque o aldeão na madeira, róde 3 barcos de pésca, Envie o segundo aldeão coletar pórcos, Envie o terceiro aldeão para coletar pórcos, construa a casa com os dois aldeões da comida e após terminar a casa, peça para voltarem para a coleta de pórcos, Envie o quarto aldeão para a madeira e róde 2 barcos de pésca, Envie o quinto aldeão para coletar pórcos, Construa o templo com o aldeão da madeira e, depois, envie os aldeões que estavam na madeira para a comida, Envie o sexto aldeão para coletar pórcos. Evolua de idade por prometêus; Construa mais um barco de pésca durante a passagem de era, distribua três aldeões da comida para a madeira, um aldeão para construir a segunda dóca, e dois aldeões que estavam na comida para o ouro. Ao terminar a dóca o aldeão deve coletar madeira. Quando fizer esta tática, você deve upar aos quatro minutos e dez segundos, aproximadamente.",
-         "autor":"TSM_Kravz",
-         "avaliacao":"10"
-      },
-      "7 vills":{
-         "texto":"Primeiro aldeão envie para construir dóca e coloque o aldeão na madeira, róde 3 barcos de pésca, Envie o segundo aldeão coletar pórcos, Envie o terceiro aldeão para coletar pórcos, construa a casa com os dois aldeões da comida e após terminar a casa, péça para voltarem para a coléta de pórcos, Envie o quarto aldeão para a madeira e róde três ou quatro barcos de pésca, Envie o quinto aldeão para coletar pórcos, Construa o templo com o aldeão da madeira, Envie o sexto aldeão para coletar pórcos. Envie o sétimo aldeão para coletar pórcos. Evolua de idade por prometeus; Construa mais um barco de pésca durante a passagem de era, distribua quatro aldeões da comida para a madeira, um aldeão para construir a segunda dóca, e dois aldeões que estavam na comida para o ouro. Ao terminar a dóca o aldeão deve coletar madeira. Quando fizer esta tática, você deve upar aos quatro minutos e trinta segundos, aproximadamente.",
-         "autor":"TSM_Kravz",
-         "avaliacao":"10"
+      "6 vills em 4min":{
+         "$ref":"6 vills mar",
+         "steam_videos":[
+         ],
+         "steam_rgs":[
+         ],
+         "voobly_rgs":[
+         ]
       }
    },
    "ra_mediterraneo":{
-      "6 vills":{
-         "texto":"Primeiro aldeão envie para construir dóca e colóque o aldeão na madeira, róde 3 barcos de pésca, Envie o segundo aldeão coletar pórcos, Envie o terceiro aldeão para coletar pórcos, construa a casa com os dois aldeões da comida e após terminar a casa, peça para voltarem para a coleta de pórcos, Envie o quarto aldeão para a madeira e róde 2 barcos de pésca, Envie o quinto aldeão para coletar pórcos, Construa o templo com o aldeão da madeira e, depois, envie os aldeões que estavam na madeira para a comida, Envie o sexto aldeão para coletar pórcos. Evolua de idade por prometêus; Construa mais um barco de pésca durante a passagem de era, distribua três aldeões da comida para a madeira, um aldeão para construir a segunda dóca, e dois aldeões que estavam na comida para o ouro. Ao terminar a dóca o aldeão deve coletar madeira. Quando fizer esta tática, você deve upar aos quatro minutos e dez segundos, aproximadamente.",
-         "autor":"TSM_Kravz",
-         "avaliacao":"10"
+      "6 vills em 4min":{
+         "$ref":"6 vills mar",
+         "steam_videos":[
+         ],
+         "steam_rgs":[
+         ],
+         "voobly_rgs":[
+         ]
       }
    },
    "isis_mediterraneo":{
-      "6 vills":{
-         "texto":"Primeiro aldeão envie para construir dóca e colóque o aldeão na madeira, róde 3 barcos de pésca, Envie o segundo aldeão coletar pórcos, Envie o terceiro aldeão para coletar pórcos, construa a casa com os dois aldeões da comida e após terminar a casa, peça para voltarem para a coleta de pórcos, Envie o quarto aldeão para a madeira e róde 2 barcos de pésca, Envie o quinto aldeão para coletar pórcos, Construa o templo com o aldeão da madeira e, depois, envie os aldeões que estavam na madeira para a comida, Envie o sexto aldeão para coletar pórcos. Evolua de idade por prometêus; Construa mais um barco de pésca durante a passagem de era, distribua três aldeões da comida para a madeira, um aldeão para construir a segunda dóca, e dois aldeões que estavam na comida para o ouro. Ao terminar a dóca o aldeão deve coletar madeira. Quando fizer esta tática, você deve upar aos quatro minutos e dez segundos, aproximadamente.",
-         "autor":"TSM_Kravz",
-         "avaliacao":"10"
+      "6 vills em 4min":{
+         "$ref":"6 vills mar",
+         "steam_videos":[
+         ],
+         "steam_rgs":[
+         ],
+         "voobly_rgs":[
+         ]
       }
    },
    "set_mediterraneo":{
-      "6 vills":{
-         "texto":"Primeiro aldeão envie para construir dóca e colóque o aldeão na madeira, róde 3 barcos de pésca, Envie o segundo aldeão coletar pórcos, Envie o terceiro aldeão para coletar pórcos, construa a casa com os dois aldeões da comida e após terminar a casa, peça para voltarem para a coleta de pórcos, Envie o quarto aldeão para a madeira e róde 2 barcos de pésca, Envie o quinto aldeão para coletar pórcos, Construa o templo com o aldeão da madeira e, depois, envie os aldeões que estavam na madeira para a comida, Envie o sexto aldeão para coletar pórcos. Evolua de idade por prometêus; Construa mais um barco de pésca durante a passagem de era, distribua três aldeões da comida para a madeira, um aldeão para construir a segunda dóca, e dois aldeões que estavam na comida para o ouro. Ao terminar a dóca o aldeão deve coletar madeira. Quando fizer esta tática, você deve upar aos quatro minutos e dez segundos, aproximadamente.",
-         "autor":"TSM_Kravz",
-         "avaliacao":"10"
+      "6 vills em 4min":{
+         "$ref":"6 vills mar",
+         "steam_videos":[
+         ],
+         "steam_rgs":[
+         ],
+         "voobly_rgs":[
+         ]
       }
    },
    "thor_mediterraneo":{
-      "6 vills":{
-         "texto":"Primeiro aldeão envie para construir dóca e colóque o aldeão na madeira, róde 3 barcos de pésca, Envie o segundo aldeão coletar pórcos, Envie o terceiro aldeão para coletar pórcos, construa a casa com os dois aldeões da comida e após terminar a casa, peça para voltarem para a coleta de pórcos, Envie o quarto aldeão para a madeira e róde 2 barcos de pésca, Envie o quinto aldeão para coletar pórcos, Construa o templo com o aldeão da madeira e, depois, envie os aldeões que estavam na madeira para a comida, Envie o sexto aldeão para coletar pórcos. Evolua de idade por prometêus; Construa mais um barco de pésca durante a passagem de era, distribua três aldeões da comida para a madeira, um aldeão para construir a segunda dóca, e dois aldeões que estavam na comida para o ouro. Ao terminar a dóca o aldeão deve coletar madeira. Quando fizer esta tática, você deve upar aos quatro minutos e dez segundos, aproximadamente.",
-         "autor":"TSM_Kravz",
-         "avaliacao":"10"
+      "6 vills em 4min":{
+         "$ref":"6 vills mar",
+         "steam_videos":[
+         ],
+         "steam_rgs":[
+         ],
+         "voobly_rgs":[
+         ]
       }
    },
    "odin_mediterraneo":{
-      "6 vills":{
-         "texto":"Primeiro aldeão envie para construir dóca e colóque o aldeão na madeira, róde 3 barcos de pésca, Envie o segundo aldeão coletar pórcos, Envie o terceiro aldeão para coletar pórcos, construa a casa com os dois aldeões da comida e após terminar a casa, peça para voltarem para a coleta de pórcos, Envie o quarto aldeão para a madeira e róde 2 barcos de pésca, Envie o quinto aldeão para coletar pórcos, Construa o templo com o aldeão da madeira e, depois, envie os aldeões que estavam na madeira para a comida, Envie o sexto aldeão para coletar pórcos. Evolua de idade por prometêus; Construa mais um barco de pésca durante a passagem de era, distribua três aldeões da comida para a madeira, um aldeão para construir a segunda dóca, e dois aldeões que estavam na comida para o ouro. Ao terminar a dóca o aldeão deve coletar madeira. Quando fizer esta tática, você deve upar aos quatro minutos e dez segundos, aproximadamente.",
-         "autor":"TSM_Kravz",
-         "avaliacao":"10"
+      "6 vills em 4min":{
+         "$ref":"6 vills mar",
+         "steam_videos":[
+         ],
+         "steam_rgs":[
+         ],
+         "voobly_rgs":[
+         ]
       }
    },
    "loki_mediterraneo":{
-      "6 vills":{
-         "texto":"Primeiro aldeão envie para construir dóca e colóque o aldeão na madeira, róde 3 barcos de pésca, Envie o segundo aldeão coletar pórcos, Envie o terceiro aldeão para coletar pórcos, construa a casa com os dois aldeões da comida e após terminar a casa, peça para voltarem para a coleta de pórcos, Envie o quarto aldeão para a madeira e róde 2 barcos de pésca, Envie o quinto aldeão para coletar pórcos, Construa o templo com o aldeão da madeira e, depois, envie os aldeões que estavam na madeira para a comida, Envie o sexto aldeão para coletar pórcos. Evolua de idade por prometêus; Construa mais um barco de pésca durante a passagem de era, distribua três aldeões da comida para a madeira, um aldeão para construir a segunda dóca, e dois aldeões que estavam na comida para o ouro. Ao terminar a dóca o aldeão deve coletar madeira. Quando fizer esta tática, você deve upar aos quatro minutos e dez segundos, aproximadamente.",
-         "autor":"TSM_Kravz",
-         "avaliacao":"10"
+      "6 vills em 4min":{
+         "$ref":"6 vills mar",
+         "steam_videos":[
+         ],
+         "steam_rgs":[
+         ],
+         "voobly_rgs":[
+         ]
       }
    },
    "urano_mediterraneo":{
-      "6 vills":{
-         "texto":"Primeiro aldeão envie para construir dóca e colóque o aldeão na madeira, róde 3 barcos de pésca, Envie o segundo aldeão coletar pórcos, Envie o terceiro aldeão para coletar pórcos, construa a casa com os dois aldeões da comida e após terminar a casa, peça para voltarem para a coleta de pórcos, Envie o quarto aldeão para a madeira e róde 2 barcos de pésca, Envie o quinto aldeão para coletar pórcos, Construa o templo com o aldeão da madeira e, depois, envie os aldeões que estavam na madeira para a comida, Envie o sexto aldeão para coletar pórcos. Evolua de idade por prometêus; Construa mais um barco de pésca durante a passagem de era, distribua três aldeões da comida para a madeira, um aldeão para construir a segunda dóca, e dois aldeões que estavam na comida para o ouro. Ao terminar a dóca o aldeão deve coletar madeira. Quando fizer esta tática, você deve upar aos quatro minutos e dez segundos, aproximadamente.",
-         "autor":"TSM_Kravz",
-         "avaliacao":"10"
+      "6 vills em 4min":{
+         "$ref":"6 vills mar",
+         "steam_videos":[
+         ],
+         "steam_rgs":[
+         ],
+         "voobly_rgs":[
+         ]
       }
    },
    "kronos_mediterraneo":{
-      "6 vills":{
-         "texto":"Primeiro aldeão envie para construir dóca e colóque o aldeão na madeira, róde 3 barcos de pésca, Envie o segundo aldeão coletar pórcos, Envie o terceiro aldeão para coletar pórcos, construa a casa com os dois aldeões da comida e após terminar a casa, peça para voltarem para a coleta de pórcos, Envie o quarto aldeão para a madeira e róde 2 barcos de pésca, Envie o quinto aldeão para coletar pórcos, Construa o templo com o aldeão da madeira e, depois, envie os aldeões que estavam na madeira para a comida, Envie o sexto aldeão para coletar pórcos. Evolua de idade por prometêus; Construa mais um barco de pésca durante a passagem de era, distribua três aldeões da comida para a madeira, um aldeão para construir a segunda dóca, e dois aldeões que estavam na comida para o ouro. Ao terminar a dóca o aldeão deve coletar madeira. Quando fizer esta tática, você deve upar aos quatro minutos e dez segundos, aproximadamente.",
-         "autor":"TSM_Kravz",
-         "avaliacao":"10"
+      "6 vills em 4min":{
+         "$ref":"6 vills mar",
+         "steam_videos":[
+         ],
+         "steam_rgs":[
+         ],
+         "voobly_rgs":[
+         ]
       }
    },
    "gaia_mediterraneo":{
-      "6 vills":{
-         "texto":"Primeiro aldeão envie para construir dóca e colóque o aldeão na madeira, róde 3 barcos de pésca, Envie o segundo aldeão coletar pórcos, Envie o terceiro aldeão para coletar pórcos, construa a casa com os dois aldeões da comida e após terminar a casa, peça para voltarem para a coleta de pórcos, Envie o quarto aldeão para a madeira e róde 2 barcos de pésca, Envie o quinto aldeão para coletar pórcos, Construa o templo com o aldeão da madeira e, depois, envie os aldeões que estavam na madeira para a comida, Envie o sexto aldeão para coletar pórcos. Evolua de idade por prometêus; Construa mais um barco de pésca durante a passagem de era, distribua três aldeões da comida para a madeira, um aldeão para construir a segunda dóca, e dois aldeões que estavam na comida para o ouro. Ao terminar a dóca o aldeão deve coletar madeira. Quando fizer esta tática, você deve upar aos quatro minutos e dez segundos, aproximadamente.",
-         "autor":"TSM_Kravz",
-         "avaliacao":"10"
+      "6 vills em 4min":{
+         "$ref":"6 vills mar",
+         "steam_videos":[
+         ],
+         "steam_rgs":[
+         ],
+         "voobly_rgs":[
+         ]
+      }
+   },
+   "zeus_anatolia":{
+      "6 vills em 4min":{
+         "$ref":"6 vills mar",
+         "steam_videos":[
+         ],
+         "steam_rgs":[
+         ],
+         "voobly_rgs":[
+         ]
+      }
+   },
+   "hades_anatolia":{
+      "6 vills em 4min":{
+         "$ref":"6 vills mar",
+         "steam_videos":[
+         ],
+         "steam_rgs":[
+         ],
+         "voobly_rgs":[
+         ]
+      }
+   },
+   "poseidon_anatolia":{
+      "6 vills em 4min":{
+         "$ref":"6 vills mar",
+         "steam_videos":[
+         ],
+         "steam_rgs":[
+         ],
+         "voobly_rgs":[
+         ]
+      }
+   },
+   "ra_anatolia":{
+      "6 vills em 4min":{
+         "$ref":"6 vills mar",
+         "steam_videos":[
+         ],
+         "steam_rgs":[
+         ],
+         "voobly_rgs":[
+         ]
+      }
+   },
+   "isis_anatolia":{
+      "6 vills em 4min":{
+         "$ref":"6 vills mar",
+         "steam_videos":[
+         ],
+         "steam_rgs":[
+         ],
+         "voobly_rgs":[
+         ]
+      }
+   },
+   "set_anatolia":{
+      "6 vills em 4min":{
+         "$ref":"6 vills mar",
+         "steam_videos":[
+         ],
+         "steam_rgs":[
+         ],
+         "voobly_rgs":[
+         ]
+      }
+   },
+   "thor_anatolia":{
+      "6 vills em 4min":{
+         "$ref":"6 vills mar",
+         "steam_videos":[
+         ],
+         "steam_rgs":[
+         ],
+         "voobly_rgs":[
+         ]
+      }
+   },
+   "odin_anatolia":{
+      "6 vills em 4min":{
+         "$ref":"6 vills mar",
+         "steam_videos":[
+         ],
+         "steam_rgs":[
+         ],
+         "voobly_rgs":[
+         ]
+      }
+   },
+   "loki_anatolia":{
+      "6 vills em 4min":{
+         "$ref":"6 vills mar",
+         "steam_videos":[
+         ],
+         "steam_rgs":[
+         ],
+         "voobly_rgs":[
+         ]
+      }
+   },
+   "urano_anatolia":{
+      "6 vills em 4min":{
+         "$ref":"6 vills mar",
+         "steam_videos":[
+         ],
+         "steam_rgs":[
+         ],
+         "voobly_rgs":[
+         ]
+      }
+   },
+   "kronos_anatolia":{
+      "6 vills em 4min":{
+         "$ref":"6 vills mar",
+         "steam_videos":[
+         ],
+         "steam_rgs":[
+         ],
+         "voobly_rgs":[
+         ]
+      }
+   },
+   "gaia_anatolia":{
+      "6 vills em 4min":{
+         "$ref":"6 vills mar",
+         "steam_videos":[
+         ],
+         "steam_rgs":[
+         ],
+         "voobly_rgs":[
+         ]
+      }
+   },
+   "zeus_midgard":{
+      "6 vills em 4min":{
+         "$ref":"6 vills mar",
+         "steam_videos":[
+         ],
+         "steam_rgs":[
+         ],
+         "voobly_rgs":[
+         ]
+      }
+   },
+   "hades_midgard":{
+      "6 vills em 4min":{
+         "$ref":"6 vills mar",
+         "steam_videos":[
+         ],
+         "steam_rgs":[
+         ],
+         "voobly_rgs":[
+         ]
+      }
+   },
+   "poseidon_midgard":{
+      "6 vills em 4min":{
+         "$ref":"6 vills mar",
+         "steam_videos":[
+         ],
+         "steam_rgs":[
+         ],
+         "voobly_rgs":[
+         ]
+      }
+   },
+   "ra_midgard":{
+      "6 vills em 4min":{
+         "$ref":"6 vills mar",
+         "steam_videos":[
+         ],
+         "steam_rgs":[
+         ],
+         "voobly_rgs":[
+         ]
+      }
+   },
+   "isis_midgard":{
+      "6 vills em 4min":{
+         "$ref":"6 vills mar",
+         "steam_videos":[
+         ],
+         "steam_rgs":[
+         ],
+         "voobly_rgs":[
+         ]
+      }
+   },
+   "set_midgard":{
+      "6 vills em 4min":{
+         "$ref":"6 vills mar",
+         "steam_videos":[
+         ],
+         "steam_rgs":[
+         ],
+         "voobly_rgs":[
+         ]
+      }
+   },
+   "thor_midgard":{
+      "6 vills em 4min":{
+         "$ref":"6 vills mar",
+         "steam_videos":[
+         ],
+         "steam_rgs":[
+         ],
+         "voobly_rgs":[
+         ]
+      }
+   },
+   "odin_midgard":{
+      "6 vills em 4min":{
+         "$ref":"6 vills mar",
+         "steam_videos":[
+         ],
+         "steam_rgs":[
+         ],
+         "voobly_rgs":[
+         ]
+      }
+   },
+   "loki_midgard":{
+      "6 vills em 4min":{
+         "$ref":"6 vills mar",
+         "steam_videos":[
+         ],
+         "steam_rgs":[
+         ],
+         "voobly_rgs":[
+         ]
+      }
+   },
+   "urano_midgard":{
+      "6 vills em 4min":{
+         "$ref":"6 vills mar",
+         "steam_videos":[
+         ],
+         "steam_rgs":[
+         ],
+         "voobly_rgs":[
+         ]
+      }
+   },
+   "kronos_midgard":{
+      "6 vills em 4min":{
+         "$ref":"6 vills mar",
+         "steam_videos":[
+         ],
+         "steam_rgs":[
+         ],
+         "voobly_rgs":[
+         ]
+      }
+   },
+   "gaia_midgard":{
+      "6 vills em 4min":{
+         "$ref":"6 vills mar",
+         "steam_videos":[
+         ],
+         "steam_rgs":[
+         ],
+         "voobly_rgs":[
+         ]
       }
    }
 }
