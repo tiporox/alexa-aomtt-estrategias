@@ -26,6 +26,12 @@
          "autor":"TSM_tiporox",
          "avaliacao":"10"
       },
+      "2tc terra":{
+         "texto":"",
+         "texto_site":"1 Aldeão faz uma guilda, melhora os cães de caça e vai para a comida<br/>2 Aldeão comida<br/>3 Aldeão madeira<br/>4 Aldeão de ouro<br/>5 e 6 Aldeões vão para a carne, o de ouro faz o templo<br/>7 Aldeão de ouro<br/>Avanço na idade (prometheus)<br/>Passe um aldeão de carne to wood<br/><br/>Quando você ficar velho, com um de madeira ele faz o 2º tc, você usa valor nos oráculos e o aldeão que está fazendo o TC então pode apertar para que ele acredite que você vai entrar full no clássico.<br/><br/>1 Aldeão mais madeira<br/>2 Aldeões mais comida<br/><br/>Quando o aldeão terminar de fazer o tc vc faz armaria e vai direto pro heroico distribua os aldeões assim: 3Alimentos 3Gold 3Madeira 1Construtor que vai fazer 2 quartéis militares e 1 palácio",
+         "autor":"TSM_tiporox",
+         "avaliacao":"10"
+      },
       "7 vills":{
          "texto":"Primeiro aldeão envie para construir dóca e coloque o aldeão na madeira, róde 3 barcos de pésca, Envie o segundo aldeão coletar pórcos, Envie o terceiro aldeão para coletar pórcos, construa a casa com os dois aldeões da comida e após terminar a casa, péça para voltarem para a coléta de pórcos, Envie o quarto aldeão para a madeira e róde três ou quatro barcos de pésca, Envie o quinto aldeão para coletar pórcos, Construa o templo com o aldeão da madeira, Envie o sexto aldeão para coletar pórcos. Envie o sétimo aldeão para coletar pórcos. Evolua de idade por prometeus; Construa mais um barco de pésca durante a passagem de era, distribua quatro aldeões da comida para a madeira, um aldeão para construir a segunda dóca, e dois aldeões que estavam na comida para o ouro. Ao terminar a dóca o aldeão deve coletar madeira. Quando fizer esta tática, você deve upar aos quatro minutos e trinta segundos, aproximadamente.",
          "texto_site":"linha 1 <br/> linha 2 <br/>",
@@ -348,9 +354,29 @@
          ]
       }
    },
+   "hades_savana":{
+      "2 TCs":{
+         "$ref":"2tc terra",
+         "steam_videos":[
+         ],
+         "steam_rgs":[
+         ],
+         "voobly_rgs":[
+         ]
+      }
+   },
    "isis_savana":{
       "6 vills em 4 min":{
          "$ref":"6v 4m terra",
+         "steam_videos":[
+         ],
+         "steam_rgs":[
+         ],
+         "voobly_rgs":[
+         ]
+      },
+      "2 TCs":{
+         "$ref":"2tc terra",
          "steam_videos":[
          ],
          "steam_rgs":[
@@ -368,11 +394,29 @@
          ],
          "voobly_rgs":[
          ]
+      },
+      "2 TCs":{
+         "$ref":"2tc terra",
+         "steam_videos":[
+         ],
+         "steam_rgs":[
+         ],
+         "voobly_rgs":[
+         ]
       }
    },
    "ra_savana":{
       "6 vills em 4 min":{
          "$ref":"6v 4m terra",
+         "steam_videos":[
+         ],
+         "steam_rgs":[
+         ],
+         "voobly_rgs":[
+         ]
+      },
+      "2 TCs":{
+         "$ref":"2tc terra",
          "steam_videos":[
          ],
          "steam_rgs":[
@@ -482,6 +526,138 @@
    "thor_buraco_dagua":{
       "7 vills em 4:30m":{
          "$ref":"7v 4:30m terra",
+         "steam_videos":[
+         ],
+         "steam_rgs":[
+         ],
+         "voobly_rgs":[
+         ]
+      }
+   },
+   "hades_pantano":{
+      "2 TCs":{
+         "$ref":"2tc terra",
+         "steam_videos":[
+         ],
+         "steam_rgs":[
+         ],
+         "voobly_rgs":[
+         ]
+      }
+   },
+   "hades_tundra":{
+      "2 TCs":{
+         "$ref":"2tc terra",
+         "steam_videos":[
+         ],
+         "steam_rgs":[
+         ],
+         "voobly_rgs":[
+         ]
+      }
+   },
+   "hades_buraco_dagua":{
+      "2 TCs":{
+         "$ref":"2tc terra",
+         "steam_videos":[
+         ],
+         "steam_rgs":[
+         ],
+         "voobly_rgs":[
+         ]
+      }
+   },
+   "isis_pantano":{
+      "2 TCs":{
+         "$ref":"2tc terra",
+         "steam_videos":[
+         ],
+         "steam_rgs":[
+         ],
+         "voobly_rgs":[
+         ]
+      }
+   },
+   "isis_tundra":{
+      "2 TCs":{
+         "$ref":"2tc terra",
+         "steam_videos":[
+         ],
+         "steam_rgs":[
+         ],
+         "voobly_rgs":[
+         ]
+      }
+   },
+   "isis_buraco_dagua":{
+      "2 TCs":{
+         "$ref":"2tc terra",
+         "steam_videos":[
+         ],
+         "steam_rgs":[
+         ],
+         "voobly_rgs":[
+         ]
+      }
+   },
+   "set_pantano":{
+      "2 TCs":{
+         "$ref":"2tc terra",
+         "steam_videos":[
+         ],
+         "steam_rgs":[
+         ],
+         "voobly_rgs":[
+         ]
+      }
+   },
+   "set_tundra":{
+      "2 TCs":{
+         "$ref":"2tc terra",
+         "steam_videos":[
+         ],
+         "steam_rgs":[
+         ],
+         "voobly_rgs":[
+         ]
+      }
+   },
+   "set_buraco_dagua":{
+      "2 TCs":{
+         "$ref":"2tc terra",
+         "steam_videos":[
+         ],
+         "steam_rgs":[
+         ],
+         "voobly_rgs":[
+         ]
+      }
+   },
+   "ra_pantano":{
+      "2 TCs":{
+         "$ref":"2tc terra",
+         "steam_videos":[
+         ],
+         "steam_rgs":[
+         ],
+         "voobly_rgs":[
+         ]
+      }
+   },
+   "ra_tundra":{
+      "2 TCs":{
+         "$ref":"2tc terra",
+         "steam_videos":[
+         ],
+         "steam_rgs":[
+         ],
+         "voobly_rgs":[
+         ]
+      }
+   },
+   "ra_buraco_dagua":{
+      "2 TCs":{
+         "$ref":"2tc terra",
          "steam_videos":[
          ],
          "steam_rgs":[
@@ -688,9 +864,38 @@
          ]
       }
    },
+   "poseidon_savana":{
+      "7 vills em 4:30m":{
+         "$ref":"7v 4:30m terra",
+         "steam_videos":[
+         ],
+         "steam_rgs":[
+         ],
+         "voobly_rgs":[
+         ]
+      },
+      "2 TCs":{
+         "$ref":"2tc terra",
+         "steam_videos":[
+         ],
+         "steam_rgs":[
+         ],
+         "voobly_rgs":[
+         ]
+      }
+   },
    "zeus_savana":{
       "7 vills em 4:30m":{
          "$ref":"7v 4:30m terra",
+         "steam_videos":[
+         ],
+         "steam_rgs":[
+         ],
+         "voobly_rgs":[
+         ]
+      },
+      "2 TCs":{
+         "$ref":"2tc terra",
          "steam_videos":[
          ],
          "steam_rgs":[
