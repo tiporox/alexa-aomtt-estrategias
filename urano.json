@@ -9,15 +9,15 @@
       },
       "5 vills mar":{
          "texto":"Primeiro aldeão envie para coletar alimento, Envie o segundo aldeão coletar alimento, Envie o terceiro aldeão coletar alimento, Envie o quarto aldeão construir casa e depois construir o templo, quando ele terminar de construir o templo, envie para coletar alimento, Envie o quinto aldeão coletar alimento. Evolua de idade por prometêus; Deixe 5 aldeões na carne até completar 80 de comida, após alcançar os 80 de comida, distribua dois aldeões da comida para coletar madeira e dois para coletar ouro. Quando fizer esta tática, você deve upar aos três minutos e trinta segundos, aproximadamente.",
-         "texto_site":"MAr Primeiro aldeão envie para coletar alimento; <br/> Envie o segundo aldeão coletar alimento; <br/> Envie o terceiro aldeão coletar alimento; <br/> Envie o quarto aldeão construir casa e depois construir o templo; <br/> quando ele terminar de construir o templo, envie para coletar alimento; <br/> Envie o quinto aldeão coletar alimento; <br/> Evolua de idade por Prometheus; <br/> Deixe 5 aldeões na carne até completar 80 de comida; <br/> Distribua dois aldeões da comida para coletar madeira e dois para coletar ouro; <br/> Quando fizer esta tática, você deve upar aos três minutos e trinta segundos, aproximadamente. <br/>",
+         "texto_site":"Primeiro aldeão envie para coletar alimento; <br/> Envie o segundo aldeão coletar alimento; <br/> Envie o terceiro aldeão coletar alimento; <br/> Envie o quarto aldeão construir casa e depois construir o templo; <br/> quando ele terminar de construir o templo, envie para coletar alimento; <br/> Envie o quinto aldeão coletar alimento; <br/> Evolua de idade por Prometheus; <br/> Deixe 5 aldeões na carne até completar 80 de comida; <br/> Distribua dois aldeões da comida para coletar madeira e dois para coletar ouro; <br/> Quando fizer esta tática, você deve upar aos três minutos e trinta segundos, aproximadamente. <br/>",
          "autor":"TSM_Kravz",
          "avaliacao":"10",
          "tipo": "agua"
       },
-      "6 vills":{
-         "texto":"Primeiro aldeão envie para construir dóca e colóque o aldeão na madeira, róde 3 barcos de pésca, Envie o segundo aldeão coletar pórcos, Envie o terceiro aldeão para coletar pórcos, construa a casa com os dois aldeões da comida e após terminar a casa, peça para voltarem para a coléta de pórcos, Envie o quarto aldeão para a madeira e róde 2 barcos de pésca, Envie o quinto aldeão para coletar pórcos, Construa o templo com o aldeão da madeira e, depois, envie os aldeões que estavam na madeira para a comida, Envie o sexto aldeão para coletar pórcos. Evolua de idade por prometêus; Construa mais um barco de pésca durante a passagem de era, distribua três aldeões da comida para a madeira, um aldeão para construir a segunda dóca, e dois aldeões que estavam na comida para o ouro. Ao terminar a dóca o aldeão deve coletar madeira. Quando fizer esta tática, você deve upar aos quatro minutos e dez segundos, aproximadamente.",
+      "6v 4m terra":{
+         "texto":"3 Aldeões para comida.<br/>1 aldeão leva 5 madeiras para fazer uma casa e um templo, ele é enviado para o gado quando terminar.<br/>2 Aldeões para comida.<br/>Tempo de avanço estimado 2:50 - 3:00 (Prometeu)<br/>Você distribui aos aldeões 3 madeiras, 2 ouros e 1 comida.<br/><br/>Conselho: Exclua os primeiros prometheans para atacar com prometéicos<br/><br/>Você faz 2 quartéis de contra-ataque ao avançar e elimina turmas, 3 primeiros turmas você faz heróis, se possível com um aldeão extra melhor.<br/>Comece o ataque e sua economia deve enviar aldeões para comida para que no minuto 7 a 8 tire alguns murmillos e não pare de atacar.",
          "texto_site":"linha 1 <br/> linha 2 <br/>",
-         "autor":"TSM_Kravz",
+         "autor":"TSM_tiporox",
          "avaliacao":"10"
       },
       "7 vills":{
@@ -44,6 +44,20 @@
    },
    "zeus_oasis":{
       "5 vills":{
+         "$ref":"6v 4m terra",
+         "steam_videos":[
+           
+         ],
+         "steam_rgs":[
+            
+         ],
+         "voobly_rgs":[
+            
+         ]
+      }
+   },
+   "zeus_alfheim":{
+      "6 vills em 4 min":{
          "$ref":"5 vills",
          "steam_videos":[
             {
